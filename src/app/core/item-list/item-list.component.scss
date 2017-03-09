@@ -1,0 +1,18 @@
+@import '../../../styles';
+
+.secondary-text {
+  color: rgba(0, 0, 0, 0.54);
+  font-style: italic;
+}
+
+h3 {
+  color: mat-color($tot-primary);
+  text-transform: uppercase;
+}
+
+// Material overrides
+
+.mat-list {
+  height: 500px;
+  overflow-y: scroll;
+}
