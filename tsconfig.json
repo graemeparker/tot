@@ -11,8 +11,6 @@
     "lib": [
       "es2016",
       "dom"
-    ],
-    "noUnusedParameters": true,
-    "noUnusedLocals": true
+    ]
   }
 }
